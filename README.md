@@ -38,5 +38,8 @@ Inicie o script
 Testar URLs
 
 ```bash
-http://httpstat.us/
+  Todas URLs deve ser preenchidas com 'HTTP://' ou 'HTTPS://'
+
+  Para testar URLs com status code diferentes, utilize o site abaixo:
+  http://httpstat.us/
 ```
