@@ -9,6 +9,7 @@
   "author": "Adonai",
   "license": "ISC",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "puppeteer": "^15.4.0"
   }
 }

@@ -35,3 +35,8 @@ Inicie o script
   node index.js
 ```
 
+Testar URLs
+
+```bash
+http://httpstat.us/
+```
